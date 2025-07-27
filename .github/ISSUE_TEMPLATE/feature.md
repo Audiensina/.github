@@ -4,6 +4,7 @@ about: Define a functional unit that supports a user story
 title: "[Feature] "
 labels: ["feature"]
 assignees: []
+type: Feature
 ---
 
 ### ✨ Feature Description

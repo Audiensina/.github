@@ -4,6 +4,7 @@ about: Define or track automated or manual tests
 title: "[Test] "
 labels: ["test"]
 assignees: []
+type: Test
 ---
 
 ### 🧪 What needs to be tested?

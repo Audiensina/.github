@@ -4,6 +4,7 @@ about: Track tasks related to writing or updating documentation
 title: "[Doc] "
 labels: ["documentation"]
 assignees: []
+type: Documentation
 ---
 
 ### 📚 What needs to be documented?
