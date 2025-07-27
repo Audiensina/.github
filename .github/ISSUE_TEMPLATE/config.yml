@@ -1,1 +1,27 @@
 blank_issues_enabled: false
+contact_links: []
+
+issue_templates:
+  - name: 🧩 User Story
+    description: Describe a user-focused feature or functionality
+    file: user_story.md
+
+  - name: ✨ Feature
+    description: Define a specific functionality that supports a user story
+    file: feature.md
+
+  - name: 🔧 Task
+    description: Technical unit of work tied to a story or feature
+    file: task.md
+
+  - name: 🐛 Bug
+    description: Report a defect or unexpected behavior
+    file: bug.md
+
+  - name: 📚 Documentation
+    description: Tasks for writing or updating documentation
+    file: documentation.md
+
+  - name: 🧪 Test
+    description: Define or execute automated/manual tests
+    file: test.md

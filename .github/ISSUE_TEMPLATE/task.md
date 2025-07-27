@@ -4,6 +4,7 @@ about: Define a technical task that supports a user story or epic
 title: "[Task] "
 labels: ["task"]
 assignees: []
+type: Task
 ---
 
 ### 🔧 Description

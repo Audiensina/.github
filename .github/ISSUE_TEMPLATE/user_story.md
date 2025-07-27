@@ -4,6 +4,7 @@ about: Describe a user-focused feature or functionality
 title: "[Story] "
 labels: ["story"]
 assignees: []
+type: User Story
 ---
 
 ### 📄 User Story

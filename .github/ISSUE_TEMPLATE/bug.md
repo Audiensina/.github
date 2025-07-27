@@ -4,6 +4,7 @@ about: Report a defect or unexpected behavior
 title: "[Bug] "
 labels: ["bug"]
 assignees: []
+type: Bug
 ---
 
 ### 🐛 Description
